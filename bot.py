@@ -58,7 +58,7 @@ async def op(_, m :Message):
                         InlineKeyboardButton("🗯 Channel", url="https://t.me/CC_BotUp"),
                         InlineKeyboardButton("💬 Support", url="https://t.me/CC_BotsSupp")
                     ],[
-                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/kwicapprovalbot?startgroup")
+                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="http://t.me/CC_AutoRequestAcceptor_Bot")
                     ]
                 ]
             )
@@ -69,7 +69,7 @@ async def op(_, m :Message):
             keyboar = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("💁‍♂️ Start me private 💁‍♂️", url="https://t.me/KwicAutoApproveBot?start=start")
+                        InlineKeyboardButton("💁‍♂️ Start me private 💁‍♂️", url="http://t.me/CC_AutoRequestAcceptor_Bot")
                     ]
                 ]
             )
@@ -100,7 +100,7 @@ async def chk(_, cb : CallbackQuery):
                         InlineKeyboardButton("🗯 Channel", url="https://t.me/CC_BotUp"),
                         InlineKeyboardButton("💬 Support", url="https://t.me/CC_BotsSupp")
                     ],[
-                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/kwicapprovalbot?startgroup")
+                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="http://t.me/CC_AutoRequestAcceptor_Bot")
                     ]
                 ]
             )
