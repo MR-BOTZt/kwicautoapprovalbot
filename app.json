@@ -25,7 +25,7 @@
         "SUDO": {
             "description":"Add Your User ID multiple is use space to split"
         },
-        "MONGO_URL": {
+        "MONGO_URI": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
             "value": ""
         },
